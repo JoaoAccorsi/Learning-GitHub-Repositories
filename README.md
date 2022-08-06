@@ -1,5 +1,5 @@
 # Learning Git and Github
 
-Version control is an essential skill for developers to master, and Git is by far the most popular version control system on the web. In this fast-paced course, author Ray Villalobos shows you how to install Git and use the fundamental commands you need to work with Git projects: moving files, managing logs, and working with branches.
+Short HTML page of repositories to learn git and github. You can find more details on Git Page --> https://joaoaccorsi.github.io/learningGitHubRepositories/.
 
-Adicionando uma mudança para testar a Branch Nova "newBranchAsTest"
+With this project build in Visual Studio Code, I was able to practice git metodololy, such as work with branches, and later on, syncing the project with GitHub.
